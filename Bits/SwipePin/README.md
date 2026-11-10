@@ -6,7 +6,27 @@ Adding `.swipeActions` was easy. Getting the rows to move smoothly? That took a 
 
 ## Demo
 
-*Add iOS 26 and iOS 27 recordings here.*
+### iOS 26 — Without vs With Row Revision
+
+<table>
+  <tr>
+    <th>Without Revision</th>
+    <th>With Revision</th>
+  </tr>
+  <tr>
+    <td>
+      <img src="gifs/ios26_without_revision.gif" width="260">
+    </td>
+    <td>
+      <img src="gifs/ios26_with_revision.gif" width="260">
+    </td>
+  </tr>
+</table>
+
+### iOS 27 — Using onPresentationChanged
+
+<img src="gifs/ios27.gif" width="280">
+
 
 ## What's happening?
 
